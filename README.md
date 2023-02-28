@@ -1,6 +1,6 @@
 <h1 align="center">Capacitação BI/BA Minsait</h1>
 
-##Aula 01
+## Aula 01
 
 - Docker e Docker Compose
 - Git e GitHub
@@ -10,7 +10,7 @@
 - Python
 - Atividades com Shell para automatizar tarefas e python para transformar dados com pandas.
 
-##Aula 02
+## Aula 02
 
 - Conceitos de Big Data
 - ETL/ELT
@@ -18,7 +18,7 @@
 - HDFS
 - Atividade com criação de datalake e importação de arquivos  para o hdfs
 
-##Aula 03
+## Aula 03
 
 - Hive
 - HQL
@@ -27,14 +27,11 @@
 - Padrão de projetos com Hive
 - Atividades
 
-##Aula 04
+## Aula 04
 
 - SQOOP (Visão geral)
 - SPARK
 - Atividade Processar dados no Hive e salvar no DataLake
-
-##Aula 05
-
 - KAFKA
 - HBASE
 - Atividade de ingerir dados no KAFKA (producer e consumer) salvar em Hbase/Hive.
